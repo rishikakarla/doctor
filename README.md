@@ -19,4 +19,4 @@ To get a hands-on experience with Gemini Pro, follow these simple steps:
 
 4. Run the Streamlit app: streamlit run app.py
 
-#Witness Gemini Pro in Action 
+# Witness Gemini Pro in Action 
